@@ -23,11 +23,12 @@ body {
 
 }
 
-main {
+ul {
     display: flex;
     gap: 2rem;
     padding: 2rem;
     flex-wrap: wrap;
+    list-style: none;
 }
 
 .endpoint-method {
